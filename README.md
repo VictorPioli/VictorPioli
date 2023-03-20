@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Victor Soares, sou desenvolverdor Front End, atualmente crio projetos e aprendo utilizando:
+Eu sou Victor Soares, sou desenvolverdor Front End, atualmente crio projetos e aprendo utilizando as seguintes tecnologias:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
